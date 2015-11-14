@@ -1,7 +1,8 @@
-var greet = 'Hello Bionic Hill University!';
+b();
+console.log(a);
 
-function greeting() {
-    console.log(greet);
+var a = 'Hello World!';
+
+function b() {
+    console.log('Called b!');
 }
-
-greeting();
